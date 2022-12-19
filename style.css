@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: pink;
+}
+
+
+#btn-color {
+width: 150px;           
+height: 150px;        
+ background: fuchsia;       
+ border: none;
+ border-radius: 5px;
+ cursor: pointer;
+}
+
+    
+
+#botondos {
+    width: 150px;           
+    height: 150px;        
+     background: black;       
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+    }
+
+    #botontres {
+        width: 150px;           
+        height: 150px;        
+         background: coral;       
+         border: none;
+         border-radius: 5px;
+         cursor: pointer;
+        }
+
+
+
+
+
+
+
+     
